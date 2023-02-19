@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW 2021.5 -->
+
+<svg
+   xml:space="preserve"
+   width="400mm"
+   height="250mm"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 40000 25000"
+   id="svg46"
+   sodipodi:docname="upper.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+   id="namedview48"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="1"
+   inkscape:showpageshadow="false"
+   inkscape:pageopacity="1"
+   inkscape:pagecheckerboard="1"
+   inkscape:deskcolor="#454545"
+   inkscape:document-units="mm"
+   showgrid="false"
+   inkscape:zoom="0.75459097"
+   inkscape:cx="542.0155"
+   inkscape:cy="402.20465"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_x0020_1" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .str0 {stroke:red;stroke-width:7.62;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Layer_x0020_1"
+   inkscape:label="Layer 1"
+   inkscape:groupmode="layer">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <rect
+   class="fil0 str0"
+   x="500.37814"
+   y="500.37817"
+   width="27999.279"
+   height="20999.279"
+   id="rect7" />
+  <circle
+   class="fil0 str0"
+   cx="1003.81"
+   cy="1703.8099"
+   r="200"
+   id="circle9" />
+  <circle
+   class="fil0 str0"
+   cx="27999.609"
+   cy="1700.41"
+   r="200"
+   id="circle11" />
+  <circle
+   class="fil0 str0"
+   cx="1003.81"
+   cy="20299.609"
+   r="200"
+   id="circle13" />
+  <circle
+   class="fil0 str0"
+   cx="27999.609"
+   cy="20299.609"
+   r="200"
+   id="circle15" />
+  <circle
+   class="fil0 str0"
+   cx="14183.8"
+   cy="7003.8101"
+   r="1500"
+   id="circle17" />
+  <circle
+   class="fil0 str0"
+   cx="17483.799"
+   cy="5703.8101"
+   r="1500"
+   id="circle19" />
+  <circle
+   class="fil0 str0"
+   cx="20983.799"
+   cy="5703.8101"
+   r="1500"
+   id="circle21" />
+  <rect
+   class="fil0 str0"
+   transform="matrix(-0.93969262,-0.34202014,-0.34202014,0.93969262,0,0)"
+   width="1422.6014"
+   height="1422.6014"
+   id="rect23"
+   x="-7945.9746"
+   y="4721.4292" />
+  <rect
+   class="fil0 str0"
+   transform="matrix(-0.93969262,-0.34202014,-0.34202014,0.93969262,0,0)"
+   width="1422.6014"
+   height="1422.6014"
+   id="rect25"
+   x="-9975.959"
+   y="4721.4292" />
+  <rect
+   class="fil0 str0"
+   transform="matrix(-0.93969262,-0.34202014,-0.34202014,0.93969262,0,0)"
+   width="1422.6014"
+   height="1422.6014"
+   id="rect27"
+   x="-12005.956"
+   y="4721.4292" />
+  <path
+   id="rect29"
+   class="fil0 str0"
+   d="m 7117.0761,5454.6833 -486.483,1336.6002 1336.607,486.4958 486.483,-1336.6003 z" />
+  
+  
+  <path
+   id="circle35"
+   class="fil0 str0"
+   d="M 24483.792,4203.8261 A 1500,1500 0 0 0 22983.781,5703.7862 1500,1500 0 0 0 24483.792,7203.798 1500,1500 0 0 0 25983.804,5703.7862 1500,1500 0 0 0 24483.792,4203.8261 Z" />
+  <circle
+   class="fil0 str0"
+   cx="13683.8"
+   cy="10703.81"
+   r="1500"
+   id="circle37" />
+  <circle
+   class="fil0 str0"
+   cx="16983.799"
+   cy="9403.8096"
+   r="1500"
+   id="circle39" />
+  <circle
+   class="fil0 str0"
+   cx="20483.799"
+   cy="9403.8096"
+   r="1500"
+   id="circle41" />
+  <circle
+   class="fil0 str0"
+   cx="23983.799"
+   cy="9403.8096"
+   r="1500"
+   id="circle43" />
+ </g>
+</svg>
