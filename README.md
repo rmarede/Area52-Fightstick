@@ -1,1 +1,1 @@
-# Area52-Fightstick
+# Michael's Area52 DIY Fightstick Enclosure
