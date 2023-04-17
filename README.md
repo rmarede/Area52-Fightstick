@@ -1,6 +1,6 @@
 # Michael's Area52 DIY Fightstick Enclosure
 
-
+<div>
 <div id="donate-button-container">
 <div id="donate-button"></div>
 <script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
@@ -15,4 +15,5 @@ title:'PayPal - The safer, easier way to pay online!',
 }
 }).render('#donate-button');
 </script>
+</div>
 </div>
