@@ -1,5 +1,18 @@
 # Michael's Area52 DIY Fightstick Enclosure
 
+## Contents: 
+  - STL files for 3D printing the side pieces
+  - SVG files for Acrylic laser cutting
+
+## Specifications:
+  - WASD holes for keyboard switches
+  - 30mm pushbutton holes
+  - Neutrik hole on the left side piece
+  - 16mm holes on the right side piece, meant for service buttons
+  - M4 screws for attaching the 3D printed parts to the acrylic panels
+  - M3 screws for attaching rubber feet to the lower acrylic panel
+  - Optional: Lower SVG file with mounting holes for Raspberry Pico
+
 ## Consider donating :)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=KNTG3GUQS668Q)
 
