@@ -1,5 +1,10 @@
 # Michael's Area52 DIY Fightstick Enclosure
 
+
+### Consider donating :) [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=KNTG3GUQS668Q)
+
+
+
 ## Contents: 
   - STL files for 3D printing the side pieces
   - SVG files for Acrylic laser cutting
@@ -12,10 +17,6 @@
   - M4 screws for attaching the 3D printed parts to the acrylic panels
   - M3 screws for attaching rubber feet to the lower acrylic panel
   - Optional: Lower SVG file with mounting holes for Raspberry Pico
-
-## Consider donating :)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=KNTG3GUQS668Q)
-
 
 ![alt text](https://lh3.googleusercontent.com/EvpMQxB6aB2SzmwbIFoUEkhAR5Ou9VplzWtvzrW8dVnKkv4RWqRNoJesNlcBNpxBiDRwmeZ2gCJH1mL5rfkonwKAWuU3ppA-FngI_eAvYSxt2iJMjNGZKUIezhQEV3mKic928zPZlOGFX-wF_85IUI0RnWmg6ru4KzmcR8_Iixpjyy1hvJUeT0oDbCz3oA1iXTEEvSYLtA9gB72DUrHyoCJYFN3Mxb7cZsyogNV33xVLXmsB80YhUQJN4qMbPQsAvItVHbfNjrWhq128Qk78r5dyht0GzQm-5g-FuZ2QtnbbNHNRBd-CJQ5Xs8cCLOmNzF-E9woJ37cFhxaHqLL_hzgNWOACQWRzN0NgnjB2Xzl5u-u_9SeEunjDb0nvB0ncuRTiHoqFuA_9mGyxA3zRE6ZaUIdoN6PRWLUjBBNaBgfq3NXZJW6nqBUTmUXAIvvCHIdWujJTjaxfhiGLe5hq-wKOHj1HutJtL1laLAIDtx-kOD25IVn7w7hYRckj5l0hpX8qg2Hyf_KX7uFpH5G5AcFc3EpqV0eI3cZCaBOi2GUmNa_q5m9X5kH6YUsIIQGOwtnG_F-oyVz0iaKgxg5xcfUTYwsIsbWnB38jpetsFiUXRctXbAh-D4BhuDUCQwnaXyYbFR13RPYfBiY1Rp3nwjED7LxY_GlZd1mGZKlPrS4gNyWpBdBdJvG9eg2BrIOkQ-ZcMrng7OsPErESwWeESMaOrtImFwCYgf9eGzYUlx-Hu5bGsVc6z7Ju0q8zMWBwGyKa4RvM6b07_cnNprOFt5QEpDxlNEOz812h-tkufbMAmhuycV6341xFDssM_23j729fXqHGDLSrEfzaWXzT9rrpnpWwqezQjcSGPiBUAP9uh8YPdRm5rnW74boeNkQ3PWxInx86ouQQL1xXPPAf7mxsy1VQG811q6CyA6LHPsN0JFC84_FYr770V_JXZn-9tfrdWB7K5UpU-t16upL565vyHXU8k54KBLNf_RGzPpFmy0EhJSwo_-Q=w1252-h939-s-no?authuser=1)
 
