@@ -5,7 +5,7 @@
 
 
 
-## Contents: 
+## Content: 
   - STL files for 3D printing the side pieces
   - SVG files for Acrylic laser cutting
 
