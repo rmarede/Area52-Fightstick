@@ -17,3 +17,5 @@ title:'PayPal - The safer, easier way to pay online!',
 </script>
 </div>
 </div>
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=KNTG3GUQS668Q)
