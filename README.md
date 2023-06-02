@@ -25,13 +25,13 @@
 
 ## 
 
-![alt text](https://preview.redd.it/hdny3ulm3hua1.jpg?width=4000&format=pjpg&auto=webp&v=enabled&s=51b7d7becbc1ec356f47593cc01e823c921f00b6)
+![alt text](https://preview.redd.it/x52cjtf7ml3b1.jpg?width=2000&format=pjpg&auto=webp&v=enabled&s=ebacc4f9cb942683bd9afa4575dcdd99b23b220b)
 
-![alt text](https://preview.redd.it/94veltsm3hua1.jpg?width=4000&format=pjpg&auto=webp&v=enabled&s=4ba0510bad0b9f7adc7cc4c3d4d1b273ce413329)
+![alt text](https://preview.redd.it/oo6ylla9ml3b1.jpg?width=2000&format=pjpg&auto=webp&v=enabled&s=08250cc88a2cb22c90f2d06ec8e4704b011af45a)
 
-![alt text](https://preview.redd.it/8zjdwo0n3hua1.jpg?width=3000&format=pjpg&auto=webp&v=enabled&s=8301d627f156d3ba6cc827194deadd187c79bbe7)
+![alt text](https://preview.redd.it/vypmckg9ml3b1.jpg?width=2000&format=pjpg&auto=webp&v=enabled&s=09de9819c57119f2029847c90e64d6a046947ae3)
 
-![alt text](https://preview.redd.it/qpwb8k6n3hua1.jpg?width=4000&format=pjpg&auto=webp&v=enabled&s=1c716f60ead43b9a5a65bc699c75c17cec381ea4)
+![alt text](https://preview.redd.it/v4ps16p9ml3b1.jpg?width=2000&format=pjpg&auto=webp&v=enabled&s=93dacb55b3359f055f863f34f6ffafa6b8988269)
 
 
 
