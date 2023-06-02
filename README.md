@@ -21,7 +21,6 @@
 ## Additional notes:
   - Best fitted for 4mm Acrylic sheets
   - This enclosure was heavily inspired on Buttercade's Area51 Fightstick
-  - The following pictures are temporary
 
 ## 
 
