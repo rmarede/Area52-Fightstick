@@ -3,11 +3,12 @@
 
 ### Consider donating [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=KNTG3GUQS668Q) :) 
 
-Feel free to contact me if you would like a version with different hole dimensions / number.
+Feel free to contact me if you would like a version with different hole dimensions / template.
 
 ## Content: 
   - STL files for 3D printing the side pieces
   - SVG files for Acrylic laser cutting
+  - PCB Files for the WASD keys (T-Spin v1)
 
 ## Specifications:
   - WASD holes for keyboard switches
@@ -21,6 +22,7 @@ Feel free to contact me if you would like a version with different hole dimensio
 ## Additional notes:
   - Best fitted for 4mm Acrylic sheets
   - This enclosure was heavily inspired on Buttercade's Area51 Fightstick
+  - The provided PCB files extracted from MyrzArcade's T-Spin v1. Link for the original files: https://bit.ly/TSPIN_PCB
 
 ## 
 
