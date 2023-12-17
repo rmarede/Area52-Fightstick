@@ -22,7 +22,7 @@ Feel free to contact me if you would like a version with different hole dimensio
 ## Additional notes:
   - Best fitted for 4mm Acrylic sheets
   - This enclosure was heavily inspired on Buttercade's Area51 Fightstick
-  - The provided PCB files extracted from MyrzArcade's T-Spin v1. Link for the original files: https://bit.ly/TSPIN_PCB
+  - The provided PCB files were extracted from MyrzArcade's T-Spin v1. Link for the original files: https://bit.ly/TSPIN_PCB
 
 ## 
 
