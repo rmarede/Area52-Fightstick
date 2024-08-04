@@ -4,6 +4,7 @@
 ### Consider donating [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?hosted_button_id=KNTG3GUQS668Q) :) 
 
 Feel free to contact me if you would like a version with different hole dimensions / template.
+> Discord : rmarede
 
 ## Content: 
   - STL files for 3D printing the side pieces
